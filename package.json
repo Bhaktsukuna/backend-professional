@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "learning profesional backend ",
+  "keywords": [
+    "javascript",
+    "backend",
+    "krishna"
+  ],
+  "license": "ISC",
+  "author": "Yuva Kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
